@@ -13,9 +13,6 @@ This WordPress plugin adds VAT (Value Added Tax) calculations to the WooCommerce
 2. Upload the `vat-tax-calculator.php` file to the `/wp-content/plugins/` directory of your WordPress installation.
 3. Activate the plugin from the **Plugins** menu in the WordPress admin panel.
 
-## Configuration
-1. After activation, go to **VAT Settings** in the WordPress dashboard menu.
-2. Set the desired VAT percentage in the settings field and save changes.
 
 ## Supported Countries
 This plugin supports VAT calculations for the following countries:
